@@ -8,11 +8,11 @@ class Project extends Component {
         <Fade bottom>
         <div className='project'>
         <a href={this.props.url}>
-            <img src={this.props.imageSrc} alt={this.props.title}></img>
+            <img src={this.props.imageSrc} alt={this.props.title} width="300"></img>
             </a>
             <h1>{this.props.title}</h1>
             <span>{this.props.service}</span>
-        </div> 
+        </div>
             </Fade>);
     }
 }
