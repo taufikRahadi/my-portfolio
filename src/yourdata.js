@@ -17,14 +17,14 @@ export default
             id: 1,
             title:'Karma Shop',
              service:'Website Development',
-             imageSrc: "https://i.ibb.co/d6xQFg1/Screenshot-93.png",
+             imageSrc: "https://i.ibb.co/DG89TXH/Screenshot-29.png",
              url:'https://github.com/taufikRahadi'
             },
             {
                 id: 2,
                 title: 'Keuangan Masjid',
                 service: 'Website Development',
-                imageSrc: "https://i.ibb.co/DG89TXH/Screenshot-29.png",
+                imageSrc: "https://i.ibb.co/d6xQFg1/Screenshot-93.png",
                 url: 'https://github.com/taufikRahadi'
             },
             {
